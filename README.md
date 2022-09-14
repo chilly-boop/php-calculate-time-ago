@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/chilly-boop/php-calculate-time-ago/total.svg)]()
 # php-calculate-time-ago
 this random code i made calculates how many seconds, minutes, hours, days, months, and years ago a date was from the current time
 
