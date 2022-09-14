@@ -7,3 +7,6 @@ $timecalc = new time_calc;
 $ago = $timecalc->time_ago("2000-05-30"); // Y-m-d
 echo($ago); // 22 years ago
 ```
+
+
+i had originally made this for squared
